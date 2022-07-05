@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faldado82
-- 👀 I’m interested in all about tecnology and cryptos
+- 👀 I’m interested in all about technology and cryptos
 - 🌱 I’m currently learning "React, UI/UX, Google Ads and more"
 - 💞️ I’m looking to collaborate on climate change
 - 📫 How to reach me (faldado82@gmail.com)
