@@ -4,6 +4,14 @@
 - 💞️ I’m looking to collaborate on climate change
 - 📫 How to reach me (faldado82@gmail.com)
 
+✨ See my PROYECTS: ✨
+
+✨ HTML and CSS:
+- https://faldado82.github.io/DisenioWebORT/ (Final proyect of CSS at Univertity ORT. I have to make it a responsive web now 👀)
+
+✨REACT:
+- https://faldado82.github.io/proyecto01-react/  (Learning React, my first proyect from freeCodeCamp)
+
 <!---
 faldado82/faldado82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
