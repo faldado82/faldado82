@@ -9,7 +9,7 @@
 ✨ HTML and CSS:
 - https://faldado82.github.io/DisenioWebORT/ (Final proyect of CSS at Univertity ORT. I have to make it a responsive web now 👀)
 - https://faldado82.github.io/photoportfolio/ (Practice of photo portfolio)
-- https://faldado82.github.io/Programacion-01/ (Final proyect of Development Course 01, Guitar Academy, users and passwords on ReadMe)
+- https://faldado82.github.io/Programacion-01/ (Final proyect of Development Course 01 at University ORT)
 
 ✨REACT:
 - https://faldado82.github.io/proyecto01-react/  (Learning React, my first proyect from freeCodeCamp)
