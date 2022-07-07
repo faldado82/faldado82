@@ -14,9 +14,10 @@
 - https://faldado82.github.io/Programacion-01/ (Final proyect of Development Course 01 at University ORT)
 
 ✨REACT:
-- https://faldado82.github.io/proyecto01-react/  (Learning React from freeCodeCamp)
-- https://faldado82.github.io/proyecto02-contador-de-clicks/ (Learning React from freeCodeCamp)
-- https://faldado82.github.io/proyecto03-calculadora/ (Basic Calculator)
+- https://faldado82.github.io/proyecto01-react/  (Learning React from freeCodeCamp Course)
+- https://faldado82.github.io/proyecto02-contador-de-clicks/ (Learning React from freeCodeCamp Course)
+- https://faldado82.github.io/proyecto03-calculadora/ (Basic Calculator from freeCodeCamp Course)
+- https://faldado82.github.io/proyecto04-todo-list/ (To Do List from freeCodeCamp Course)
 
 <!---
 faldado82/faldado82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
