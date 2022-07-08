@@ -2,7 +2,7 @@
 - 👀 I’m interested in all about technology and cryptos
 - 🌱 I’m currently learning "React, UI/UX, Google Ads and more"
 - 💞️ I’m looking to collaborate on climate change and recycling ideas...
-- 📫 How to reach me (faldado82@gmail.com)
+- 📫 How to reach me (faldado82@gmail.com , [bit.ly/3nMzo75](https://bit.ly/3nMzo75))
 
 ✨ See my PROYECTS: ✨
 
