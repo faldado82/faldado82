@@ -12,7 +12,8 @@
 
 ✨ HTML, CSS and JAVASCRIPT:
 - https://faldado82.github.io/Programacion-01/ (Final proyect of Development Course 01 at University ORT)
-- https://faldado82.github.io/Game-Guess-my-number/ (Game Proyect) 
+- https://faldado82.github.io/Game-Guess-my-number/ (Game Proyect - Learning fundamentals of Javascript) 
+- https://faldado82.github.io/Modal-Window/ (Modal Window Proyect - Learning fundamentals of Javascript)
 
 ✨REACT:
 - https://faldado82.github.io/proyecto01-react/  (Learning React from freeCodeCamp Course)
