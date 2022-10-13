@@ -22,6 +22,7 @@
 - https://faldado82.github.io/proyecto03-calculadora/ (Basic Calculator from freeCodeCamp Course)
 - https://faldado82.github.io/proyecto04-todo-list/ (To Do List from freeCodeCamp Course)
 - https://crypto-app-proyect.netlify.app/ (Front End Proyect Course at ORT University - DEMO)
+- https://github.com/faldado82/CryptoApp (Front End Proyect Course at ORT University - CODE)
 
 <!---
 faldado82/faldado82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
