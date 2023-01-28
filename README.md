@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faldado82, you can call me Fran
-- 👀 I’m interested in all about technology and cryptos
-- 🌱 I’m currently learning "React, UI/UX, Google Ads and more"
-- 💞️ I’m looking to collaborate on climate change and recycling ideas...
+- 👀 I’m interested in all about mobile technology, IoT and cryptos
+- 🌱 I’m currently learning "Dart, Flutter, UI/UX, and more about mobile developing"
+- 💞️ I’m looking to collaborate on apps about flutter, climate change apps and recycling ideas...
 - 📫 How to reach me (faldado82@gmail.com , [LinkedIn](https://bit.ly/3nMzo75),  )
 - 📫 My Personal Website >>>> https://faldado82.github.io/react-portfolio/
 
