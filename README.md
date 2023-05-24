@@ -25,6 +25,14 @@
 - https://crypto-app-proyect.netlify.app/ (Front End Proyect Course at ORT University - DEMO)
 - https://github.com/faldado82/CryptoApp (Front End Proyect Course at ORT University - CODE)
 
+✨FLUTTER: (Repositories)
+- https://github.com/faldado82/counter_app_flutter
+- https://github.com/faldado82/flutter_components_app
+- https://github.com/faldado82/movies_app_flutter
+- https://github.com/faldado82/flutter_design_app
+- https://github.com/faldado82/qr_reader_flutter
+- https://github.com/faldado82/preferences_flutter_app
+- https://github.com/faldado82/productos_flutter_app
 <!---
 faldado82/faldado82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
