@@ -26,13 +26,15 @@
 - https://github.com/faldado82/CryptoApp (Front End Proyect Course at ORT University - CODE)
 
 ✨FLUTTER: (Repositories)
-- https://github.com/faldado82/counter_app_flutter
-- https://github.com/faldado82/flutter_components_app
-- https://github.com/faldado82/movies_app_flutter
+- https://github.com/faldado82/counter_app_flutter (2 players counter)
+- https://github.com/faldado82/flutter_components_app (studing flutter components and widgets)
+- https://github.com/faldado82/movies_app_flutter (getting movies from API, using http package)
 - https://github.com/faldado82/flutter_design_app
-- https://github.com/faldado82/qr_reader_flutter
+- https://github.com/faldado82/qr_reader_flutter (using camera, and QR reader)
 - https://github.com/faldado82/preferences_flutter_app
-- https://github.com/faldado82/productos_flutter_app
+- https://github.com/faldado82/productos_flutter_app (using camera for post products in firebase)
+- https://github.com/faldado82/notificaciones
+- https://github.com/faldado82/news_app (getting news from API, using http)
 <!---
 faldado82/faldado82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
