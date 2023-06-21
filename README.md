@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on apps about flutter, climate change apps and recycling ideas...
 
 ## Lets' Connect
-- 📫 My personal email >>>> faldado82@gmail.com 
+- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="20" width="20" /> My personal email >>>> faldado82@gmail.com 
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="20" width="20" /> [LinkedIn](https://bit.ly/3nMzo75),  
 - 📫 My personal Website >>>> https://faldado82.github.io/react-portfolio/
 
