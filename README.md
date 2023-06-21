@@ -38,7 +38,7 @@
           
  </p>
 
-# See my PROYECTS: ✨
+# ✨ See my PROYECTS: ✨
 
 ## HTML and CSS:
 - https://faldado82.github.io/photoportfolio/ (Practice of Web PhotoPortfolio)
@@ -72,6 +72,8 @@
 
 ## FREELANCE PROYECTS:
 - https://masajesytratamientos.com/
+
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 <!---
 faldado82/faldado82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
