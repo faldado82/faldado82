@@ -79,7 +79,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faldado82&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/faldado82/count.svg)
+![](https://komarev.com/ghpvc/?username=your-github-faldado82)
 
 <!---
 faldado82/faldado82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
