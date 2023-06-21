@@ -5,18 +5,18 @@
 - 📫 How to reach me (faldado82@gmail.com , [LinkedIn](https://bit.ly/3nMzo75),  )
 - 📫 My Personal Website >>>> https://faldado82.github.io/react-portfolio/
 
-✨ See my PROYECTS: ✨
-
-✨ HTML and CSS:
-- https://faldado82.github.io/photoportfolio/ (Practice of Web PhotoPortfolio)
-- https://faldado82.github.io/DisenioWebORT/ (Final proyect of CSS at Univertity ORT. I have to make it a responsive web now 👀)
-
 ✨ MY KNOWLEDGE:
  <p>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="35" width="35" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="35" width="35"/>
           
  </p>
+
+✨ See my PROYECTS: ✨
+
+✨ HTML and CSS:
+- https://faldado82.github.io/photoportfolio/ (Practice of Web PhotoPortfolio)
+- https://faldado82.github.io/DisenioWebORT/ (Final proyect of CSS at Univertity ORT. I have to make it a responsive web now 👀)
 
 ✨ HTML, CSS and JAVASCRIPT:
 
