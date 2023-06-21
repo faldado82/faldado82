@@ -7,7 +7,7 @@
 ## Lets' Connect
 - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="20" width="20" /> My personal email >>>> faldado82@gmail.com 
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="20" width="20" /> [LinkedIn](https://bit.ly/3nMzo75),  
-- <img align="center" src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/web-icon.svg" height="20" width="20"/> My personal Website >>>> https://faldado82.github.io/react-portfolio/
+- <img align="center" src="https://visualpharm.com/assets/78/Website-595b40b75ba036ed117d5c7f.svg" height="20" width="20"/> My personal Website >>>> https://faldado82.github.io/react-portfolio/
 
 ## MY KNOWLEDGE:
  <p>
