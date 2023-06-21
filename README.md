@@ -1,7 +1,10 @@
+## About Me
 - 👋 Hi, I’m @faldado82, you can call me Fran
 - 👀 I’m interested in all about mobile technology, IoT and cryptos
 - 🌱 I’m currently learning "Dart, Flutter, UI/UX, and more about mobile developing"
 - 💞️ I’m looking to collaborate on apps about flutter, climate change apps and recycling ideas...
+
+## Lets' Connect
 - 📫 How to reach me (faldado82@gmail.com , 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedIn" height="20" width="20" />
            [LinkedIn](https://bit.ly/3nMzo75),  )
@@ -67,6 +70,9 @@
 - https://github.com/faldado82/productos_flutter_app (using camera for post products in firebase)
 - https://github.com/faldado82/notificaciones
 - https://github.com/faldado82/news_app (getting news from API, using http)
+
+✨FREELANCE PROYECTS:
+- https://masajesytratamientos.com/
 <!---
 faldado82/faldado82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
