@@ -2,7 +2,9 @@
 - 👀 I’m interested in all about mobile technology, IoT and cryptos
 - 🌱 I’m currently learning "Dart, Flutter, UI/UX, and more about mobile developing"
 - 💞️ I’m looking to collaborate on apps about flutter, climate change apps and recycling ideas...
-- 📫 How to reach me (faldado82@gmail.com , [LinkedIn](https://bit.ly/3nMzo75),  )
+- 📫 How to reach me (faldado82@gmail.com , 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedIn" height="20" width="20" />
+           [LinkedIn](https://bit.ly/3nMzo75),  )
 - 📫 My Personal Website >>>> https://faldado82.github.io/react-portfolio/
 
 ✨ MY KNOWLEDGE:
@@ -19,6 +21,10 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" alt="ionic" height="35" width="35" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" height="35" width="35" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" height="35" width="35" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="visual studio code" height="35" width="35"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" height="35" width="35"  />
+          
+          
           
           
           
