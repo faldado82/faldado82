@@ -13,7 +13,7 @@
 
 ✨ HTML, CSS and JAVASCRIPT:
 <p>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="35" width="35" />
 </p>
 - https://faldado82.github.io/Programacion-01/ (Final proyect of Development Course 01 at University ORT)
 - https://faldado82.github.io/Game-Guess-my-number/ (Game Proyect - Learning fundamentals of Javascript) 
