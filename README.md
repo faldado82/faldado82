@@ -12,7 +12,9 @@
 - https://faldado82.github.io/DisenioWebORT/ (Final proyect of CSS at Univertity ORT. I have to make it a responsive web now 👀)
 
 ✨ HTML, CSS and JAVASCRIPT:
-<p><img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" alt="html5" width="35" height="35"/></p>
+<p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+</p>
 - https://faldado82.github.io/Programacion-01/ (Final proyect of Development Course 01 at University ORT)
 - https://faldado82.github.io/Game-Guess-my-number/ (Game Proyect - Learning fundamentals of Javascript) 
 - https://faldado82.github.io/Modal-Window/ (Modal Window Proyect - Learning fundamentals of Javascript)
