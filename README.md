@@ -10,7 +10,7 @@
            [LinkedIn](https://bit.ly/3nMzo75),  )
 - 📫 My Personal Website >>>> https://faldado82.github.io/react-portfolio/
 
-✨ MY KNOWLEDGE:
+## MY KNOWLEDGE:
  <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="35" width="35" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="35" width="35"/>
@@ -41,18 +41,18 @@
 
 ✨ See my PROYECTS: ✨
 
-✨ HTML and CSS:
+## HTML and CSS:
 - https://faldado82.github.io/photoportfolio/ (Practice of Web PhotoPortfolio)
 - https://faldado82.github.io/DisenioWebORT/ (Final proyect of CSS at Univertity ORT. I have to make it a responsive web now 👀)
 
-✨ HTML, CSS and JAVASCRIPT:
+## HTML, CSS and JAVASCRIPT:
 
 - https://faldado82.github.io/Programacion-01/ (Final proyect of Development Course 01 at University ORT)
 - https://faldado82.github.io/Game-Guess-my-number/ (Game Proyect - Learning fundamentals of Javascript) 
 - https://faldado82.github.io/Modal-Window/ (Modal Window Proyect - Learning fundamentals of Javascript)
 - https://faldado82.github.io/PigGame/ (Game Proyect - Learning fundamentals of Javascript)
 
-✨REACT:
+## REACT:
 - https://faldado82.github.io/proyecto01-react/  (Learning React from freeCodeCamp Course)
 - https://faldado82.github.io/proyecto02-contador-de-clicks/ (Learning React from freeCodeCamp Course)
 - https://faldado82.github.io/proyecto03-calculadora/ (Basic Calculator from freeCodeCamp Course)
@@ -60,7 +60,7 @@
 - https://crypto-app-proyect.netlify.app/ (Front End Proyect Course at ORT University - DEMO)
 - https://github.com/faldado82/CryptoApp (Front End Proyect Course at ORT University - CODE)
 
-✨FLUTTER: (Repositories)
+## FLUTTER: (Repositories)
 - https://github.com/faldado82/counter_app_flutter (2 players counter)
 - https://github.com/faldado82/flutter_components_app (studing flutter components and widgets)
 - https://github.com/faldado82/movies_app_flutter (getting movies from API, using http package)
@@ -71,7 +71,7 @@
 - https://github.com/faldado82/notificaciones
 - https://github.com/faldado82/news_app (getting news from API, using http)
 
-✨FREELANCE PROYECTS:
+## FREELANCE PROYECTS:
 - https://masajesytratamientos.com/
 <!---
 faldado82/faldado82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
