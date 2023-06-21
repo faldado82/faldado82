@@ -73,7 +73,12 @@
 ## FREELANCE PROYECTS:
 - https://masajesytratamientos.com/
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+<br>
+<br>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faldado82)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 faldado82/faldado82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
