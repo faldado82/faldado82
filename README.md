@@ -70,6 +70,9 @@
 - https://github.com/faldado82/notificaciones
 - https://github.com/faldado82/news_app (getting news from API, using http)
 
+## FLUTTER WEB:
+- https://flutter-vertical-landing-page.netlify.app/ (PWA landing page using flutter, animations, provider, google fonts)
+
 ## FREELANCE PROYECTS:
 - https://masajesytratamientos.com/
 
