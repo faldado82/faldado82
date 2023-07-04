@@ -68,7 +68,10 @@
 - https://github.com/faldado82/preferences_flutter_app
 - https://github.com/faldado82/productos_flutter_app (using camera for post products in firebase)
 - https://github.com/faldado82/notificaciones
-- https://github.com/faldado82/news_app (getting news from API, using http)
+- https://github.com/faldado82/news_app (getting news from API, using http, provider)
+- https://github.com/faldado82/advicer_app_flutter (get an advice with this app, dark and ligth theme, BLoC, adviser API and more..) 
+- https://github.com/faldado82/bases_flutter_web (basic knowledge about flutter web, state and routes managment and more..)
+- https://github.com/faldado82/vertical_landing_web_page (PWA landing page animations, provider, google fonts)
 
 ## FLUTTER WEB:
 - https://flutter-vertical-landing-page.netlify.app/ (PWA landing page using flutter, animations, provider, google fonts)
