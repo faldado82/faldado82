@@ -59,7 +59,7 @@
 - https://crypto-app-proyect.netlify.app/ (Front End Proyect Course at ORT University - DEMO)
 - https://github.com/faldado82/CryptoApp (Front End Proyect Course at ORT University - CODE)
 
-## FLUTTER: (Repositories)
+## FLUTTER: (Repositories) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 - https://github.com/faldado82/counter_app_flutter (2 players counter)
 - https://github.com/faldado82/flutter_components_app (studing flutter components and widgets)
 - https://github.com/faldado82/movies_app_flutter (getting movies from API, using http package)
