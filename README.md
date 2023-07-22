@@ -51,7 +51,7 @@
 - https://faldado82.github.io/Modal-Window/ (Modal Window Proyect - Learning fundamentals of Javascript)
 - https://faldado82.github.io/PigGame/ (Game Proyect - Learning fundamentals of Javascript)
 
-## REACT:
+## REACT: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - https://faldado82.github.io/proyecto01-react/  (Learning React from freeCodeCamp Course)
 - https://faldado82.github.io/proyecto02-contador-de-clicks/ (Learning React from freeCodeCamp Course)
 - https://faldado82.github.io/proyecto03-calculadora/ (Basic Calculator from freeCodeCamp Course)
