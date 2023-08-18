@@ -76,6 +76,7 @@
 - https://github.com/faldado82/bases_flutter_web (basic knowledge about flutter web, state and routes managment and more..)
 - https://github.com/faldado82/vertical_landing_web_page (PWA landing page animations, provider, google fonts)
 - https://flutter-vertical-landing-page.netlify.app/ (DEMO of PWA landing page using flutter, animations, provider, google fonts)
+- https://flutter-dashboard-web-c3a73e734bc9.herokuapp.com/ (DEMO of Dashboard Application made with Flutter WEB)
 
 ## FREELANCE PROYECTS:
 - https://masajesytratamientos.com/
